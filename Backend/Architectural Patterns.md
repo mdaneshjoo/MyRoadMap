@@ -1,0 +1,6 @@
+- [ ] [[Monolithic Apps]]
+- [ ] [[Microservices]]
+- [ ] [[SOA]]
+- [ ] [[Serverless]]
+- [ ] [[Service Mesh]]
+- [ ] [[Twelve-Factor Apps]]

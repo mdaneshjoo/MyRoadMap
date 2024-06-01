@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"34a3eb238fde311e","type":"text","text":"Sql","x":-942,"y":-520,"width":325,"height":50},
+		{"id":"af5dceb47beddb97","type":"text","text":"AWS","x":-942,"y":-450,"width":325,"height":50},
+		{"id":"73fd52968a70cbc1","type":"text","text":"Graphql","x":-942,"y":-380,"width":325,"height":50},
+		{"id":"91de9a24d2049332","type":"text","text":"Software Design and Architecture","x":-942,"y":-310,"width":325,"height":50},
+		{"id":"12f98bd2328a974e","type":"text","text":"**[[Backend]]**","x":-431,"y":-325,"width":142,"height":50,"color":"2"},
+		{"id":"f7127f027281aa60","type":"text","text":"Relational Databases","x":-82,"y":-479,"width":219,"height":50},
+		{"id":"7606727365006959","type":"text","text":"Docker","x":-82,"y":-409,"width":219,"height":50},
+		{"id":"98dba15294408521","type":"text","text":"Kubernetes","x":-82,"y":-339,"width":219,"height":50},
+		{"id":"158d7ca35cbdf36d","type":"text","text":"Golang","x":-82,"y":-269,"width":219,"height":50},
+		{"id":"959a7ab8a910c4c4","type":"text","text":"[[Blockchain]]","x":360,"y":-40,"width":146,"height":50},
+		{"id":"340ce6814762dba3","type":"text","text":" [[System Design]]","x":345,"y":91,"width":176,"height":50},
+		{"id":"e2baee440bea6770","type":"text","text":"[[ML]]","x":388,"y":211,"width":90,"height":50},
+		{"id":"c5bad991c239604a","type":"text","text":"# [[Software Architecture]]","x":-242,"y":400,"width":370,"height":80,"color":"5"},
+		{"id":"20ce2b70ceccd3f2","type":"text","text":"# [[My Carrier]]","x":-161,"y":-760,"width":209,"height":50,"color":"1"},
+		{"id":"b2db36f00c80ecc9","type":"text","text":"Rust","x":680,"y":-90,"width":100,"height":50},
+		{"id":"5d767575ec695c8b","type":"text","text":"Solidity","x":680,"y":-20,"width":121,"height":50},
+		{"id":"57d9064bbbcccbe1","type":"text","text":" [[Data structure and Algorithm]]","x":-942,"y":-219,"width":325,"height":50}
+	],
+	"edges":[
+		{"id":"5ed1bc811c0ca627","fromNode":"20ce2b70ceccd3f2","fromSide":"bottom","toNode":"12f98bd2328a974e","toSide":"top","color":"1"},
+		{"id":"b8bbe050bedb45fb","fromNode":"12f98bd2328a974e","fromSide":"right","toNode":"7606727365006959","toSide":"left"},
+		{"id":"830892475461ae13","fromNode":"12f98bd2328a974e","fromSide":"right","toNode":"98dba15294408521","toSide":"left"},
+		{"id":"bb72ed2b7c4ea744","fromNode":"12f98bd2328a974e","fromSide":"left","toNode":"73fd52968a70cbc1","toSide":"right"},
+		{"id":"d167a4a0d4531e61","fromNode":"12f98bd2328a974e","fromSide":"left","toNode":"91de9a24d2049332","toSide":"right"},
+		{"id":"e410676587b179af","fromNode":"12f98bd2328a974e","fromSide":"bottom","toNode":"959a7ab8a910c4c4","toSide":"top"},
+		{"id":"39ad65789d3b79d5","fromNode":"12f98bd2328a974e","fromSide":"right","toNode":"158d7ca35cbdf36d","toSide":"left"},
+		{"id":"2c9a2c0c8168b68d","fromNode":"12f98bd2328a974e","fromSide":"left","toNode":"34a3eb238fde311e","toSide":"right"},
+		{"id":"2bce3cd372cc825d","fromNode":"12f98bd2328a974e","fromSide":"left","toNode":"af5dceb47beddb97","toSide":"right"},
+		{"id":"768205ee8fa6a112","fromNode":"12f98bd2328a974e","fromSide":"right","toNode":"f7127f027281aa60","toSide":"left"},
+		{"id":"a77233c9951b18e5","fromNode":"340ce6814762dba3","fromSide":"bottom","toNode":"e2baee440bea6770","toSide":"top"},
+		{"id":"5da183b1c6d9f843","fromNode":"e2baee440bea6770","fromSide":"bottom","toNode":"c5bad991c239604a","toSide":"top"},
+		{"id":"aa139d56410bf56d","fromNode":"959a7ab8a910c4c4","fromSide":"bottom","toNode":"340ce6814762dba3","toSide":"top"},
+		{"id":"4a94d095c7db9652","fromNode":"959a7ab8a910c4c4","fromSide":"right","toNode":"b2db36f00c80ecc9","toSide":"left"},
+		{"id":"10278ed905c11954","fromNode":"959a7ab8a910c4c4","fromSide":"right","toNode":"5d767575ec695c8b","toSide":"left"},
+		{"id":"022197884bde5cbe","fromNode":"12f98bd2328a974e","fromSide":"left","toNode":"57d9064bbbcccbe1","toSide":"right"}
+	]
+}

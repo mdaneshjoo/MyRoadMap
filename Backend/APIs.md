@@ -1,0 +1,5 @@
+- [ ] [[REST Best Practises]]
+- [ ] [[JSON API]]
+- [ ] [[SOAP]]
+- [ ] [[gRPC]]
+- [ ] [[Graphql]]
